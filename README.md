@@ -1,5 +1,7 @@
 # 🧠 Stroke Prediction Dashboard
 
+🔗 **Live demo**: [Stroke Dashboard on Streamlit Cloud](https://stroke-dashboard-nglzhpcr74jh6ipja8x2sh.streamlit.app/)
+
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
