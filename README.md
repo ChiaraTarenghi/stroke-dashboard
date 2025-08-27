@@ -14,6 +14,10 @@ Dataset: **Stroke Prediction Dataset** from [Kaggle](https://www.kaggle.com/data
 - Features: demographic, lifestyle, and health risk factors
 - Target: `stroke` (1 = stroke, 0 = no stroke)
 
+⚠️ **Note**: Due to file size/licensing, the dataset is **not included** in this repository.  
+To run the dashboard locally, download the CSV from Kaggle and place it in:
+
+stroke-dashboard/data/healthcare-dataset-stroke-data.csv
 ---
 
 ## 🚀 Features
